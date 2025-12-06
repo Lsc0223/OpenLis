@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@edgeone/ef-types": "^1.0.5",
+    "vite":"latest",
     "@hono/node-server": "^1.16.0",
     "@prisma/adapter-mariadb": "^7.0.1",
     "@prisma/adapter-mssql": "^7.0.1",
